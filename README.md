@@ -31,6 +31,9 @@ Akıllı Ev Sistemi projesi, akıllı cihazların yönetimini ve güvenlik modla
 6. **Observer Deseni**:
    - Güvenlik modu değişikliklerinde kullanıcılar bilgilendirilir.
 
+# Diyagram
+![Diyagram](https://github.com/erenemrearik/akillievsistemi/blob/main/akillievsistemi.png)
+
 
 ## Gereksinimler
 
